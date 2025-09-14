@@ -1,0 +1,29 @@
+{
+    "Server": 
+	[
+		{
+			"ConfigId": "1",
+			"ChannelOnlyGM": "false",
+			"EnableMissions": "true",
+			"AccessUFL": "true",
+			"UserFileList": "",
+			"ClientVersion": "3.68",
+			"EnableGiftSystem": "true",
+			"EnableClan": "true",
+			"EnableTicket": "true",
+			"EnableTags": "true",
+			"EnableBlood": "true",
+			"ExitURL": "https://localhost",
+			"ShopURL": "https://localhost/shop",
+			"OfficialSteam": "https://localhost/steam",
+			"OfficialBannerEnabled": "true",
+			"OfficialBanner": "https://localhost/banner",
+			"OfficialAddress": "127.0.0.1",
+			"ChatAnnoucementColor": "4587513",
+			"ChannelAnnoucementColor": "16776960",
+			"ChatAnnountcement": "Welcome To Point Blank Evolution (Private Server)", 
+			"ChannelAnnouncement": "{col: 50, 255, 25, 255}Attention!{/col} {col: 255, 25, 50, 255}Welcome To Point Blank Evolution (Private Server){/col} | Wanna Have Some Exclusive Packages? Go Check It On Shop | Don't Forget To Subcribe Us!",
+			"Showroom": "S_Christmas"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Permission Key="0" Name="NORMAL" 		Description="Access level for Normal Users"		FakeRank="255"/>
+	<Permission Key="1" Name="CAFE" 		Description="Access level for PC Cafe User"		FakeRank="255"/>
+	<Permission Key="2" Name="STREAMER" 	Description="Access level for Streamer User"	FakeRank="255"/>
+	<Permission Key="3" Name="INFLUENCER" 	Description="Access level for Infuencer"		FakeRank="255"/>
+	<Permission Key="4" Name="VIP" 			Description="Access level for Server Tester"	FakeRank="255"/>
+	<Permission Key="5" Name="MODERATOR" 	Description="Access level for MOD (Moderator)"	FakeRank="54"/>
+	<Permission Key="6" Name="GAMEMASTER" 	Description="Access level for GM (GameMaster)"	FakeRank="53"/>
+</List>

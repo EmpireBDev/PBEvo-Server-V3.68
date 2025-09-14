@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Award TitleId="8">
+        <Counts>
+		    <Item Id="103014" Count="10" Equip="1" Name="SG 550 S. (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="10">
+        <Counts>
+			<Item Id="103013" Count="10" Equip="1" Name="G36C Ext. (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="12">
+        <Counts>
+		    <Item Id="103036" Count="10" Equip="1" Name="AUG A3 (10 Qty)"/>
+		    <Item Id="103015" Count="10" Equip="1" Name="AK SOPMOD (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="13">
+        <Counts>
+		    <Item Id="2700014" Count="1" Equip="3" Name="Beret Title Assault"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="14">
+        <Counts>
+		    <Item Id="105006" Count="10" Equip="1" Name="Dragunov G. (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="16">
+        <Counts>
+		    <Item Id="105024" Count="10" Equip="1" Name="PSG1 G (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="18">
+        <Counts>
+		    <Item Id="105005" Count="10" Equip="1" Name="L115A1 (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="19">
+        <Counts>
+		    <Item Id="2700016" Count="1" Equip="3" Name="Beret Title Sniper"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="20">
+        <Counts>
+		    <Item Id="104007" Count="10" Equip="1" Name="MP5K G. (10 Qty)"/>
+		    <Item Id="104009" Count="10" Equip="1" Name="Spectre W. (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="22">
+        <Counts>
+		    <Item Id="104011" Count="10" Equip="1" Name="P90 Ext. (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="24">
+        <Counts>
+		    <Item Id="104013" Count="10" Equip="1" Name="Kriss S.V (10 Qty)"/>
+	    </Counts>
+	</Award>
+    <Award TitleId="25">
+        <Counts>
+		    <Item Id="2700017" Count="1" Equip="3" Name="Beret Title Submachine"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="26">
+        <Counts>
+		    <Item Id="315001" Count="10" Equip="1" Name="Dual Knife (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="28">
+        <Counts>
+		    <Item Id="301004" Count="10" Equip="1" Name="Amok Kukri (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="29">
+        <Counts>
+		    <Item Id="301007" Count="10" Equip="1" Name="Mini Axe (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="30">
+        <Counts>
+		    <Item Id="213001" Count="10" Equip="1" Name="P99 HAK (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="32">
+        <Counts>
+		    <Item Id="214001" Count="10" Equip="1" Name="Dual Handgun (10 Qty)"/>
+		    <Item Id="214002" Count="10" Equip="1" Name="Dual D-Eagle (10 Qty)"/>
+	    </Counts>
+	</Award>
+    <Award TitleId="34">
+        <Counts>
+		    <Item Id="2700015" Count="1" Equip="3" Name="Beret Title Handgun"/>
+	    </Counts>
+	</Award>
+    <Award TitleId="35">
+        <Counts>
+		    <Item Id="106004" Count="10" Equip="1" Name="870MCS W. (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="37">
+        <Counts>
+		    <Item Id="106003" Count="10" Equip="1" Name="SPAS-15 (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="39">
+        <Counts>
+		    <Item Id="2700018" Count="1" Equip="3" Name="Beret Title Shotgun"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="40">
+        <Counts>
+		    <Item Id="407002" Count="10" Equip="1" Name="C-5 (10 Qty)"/>
+	    </Counts>
+	</Award>
+	<Award TitleId="42">
+        <Counts>
+		    <Item Id="527001" Count="10" Equip="1" Name="WP Smoke (10 Qty)"/>
+	    </Counts>
+	</Award>
+</List>

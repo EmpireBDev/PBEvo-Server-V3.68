@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Title Id="1" List="1" Medal="0" Ribbon="1" MasterMedal="0" Ensign="0" Rank="1" Slot="1" ReqT1="0" ReqT2="0"/>
+	<Title Id="2" List="1" Medal="0" Ribbon="2" MasterMedal="0" Ensign="0" Rank="2" Slot="1" ReqT1="1" ReqT2="0"/>
+	<Title Id="3" List="1" Medal="0" Ribbon="3" MasterMedal="0" Ensign="0" Rank="3" Slot="1" ReqT1="2" ReqT2="0"/>
+	<Title Id="4" List="1" Medal="0" Ribbon="4" MasterMedal="0" Ensign="0" Rank="4" Slot="1" ReqT1="3" ReqT2="0"/>
+	
+	<Title Id="5" List="2" Medal="0" Ribbon="0" MasterMedal="1" Ensign="2" Rank="5" Slot="2" ReqT1="4" ReqT2="0"/>
+	<Title Id="6" List="4" Medal="0" Ribbon="0" MasterMedal="2" Ensign="2" Rank="5" Slot="2" ReqT1="4" ReqT2="0"/>
+	<Title Id="7" List="6" Medal="0" Ribbon="0" MasterMedal="1" Ensign="2" Rank="5" Slot="2" ReqT1="4" ReqT2="0"/>
+
+	<Title Id="8" List="2" Medal="0" Ribbon="0" MasterMedal="1" Ensign="3" Rank="8" Slot="2" ReqT1="5" ReqT2="0"/>
+	<Title Id="9" List="2" Medal="6" Ribbon="0" MasterMedal="2" Ensign="0" Rank="12" Slot="2" ReqT1="8" ReqT2="0"/>
+	<Title Id="10" List="2" Medal="14" Ribbon="0" MasterMedal="4" Ensign="0" Rank="17" Slot="2" ReqT1="9" ReqT2="0"/>
+	<Title Id="11" List="2" Medal="13" Ribbon="0" MasterMedal="3" Ensign="0" Rank="21" Slot="3" ReqT1="10" ReqT2="28"/>
+	<Title Id="12" List="2" Medal="21" Ribbon="0" MasterMedal="6" Ensign="0" Rank="26" Slot="3" ReqT1="11" ReqT2="0"/>
+	<Title Id="13" List="2" Medal="26" Ribbon="0" MasterMedal="7" Ensign="0" Rank="31" Slot="3" ReqT1="11" ReqT2="0"/>
+	<Title Id="14" List="4" Medal="0" Ribbon="0" MasterMedal="4" Ensign="9" Rank="8" Slot="2" ReqT1="6" ReqT2="0"/>
+	<Title Id="15" List="4" Medal="0" Ribbon="0" MasterMedal="2" Ensign="8" Rank="12" Slot="2" ReqT1="14" ReqT2="0"/>
+
+	<Title Id="16" List="4" Medal="14" Ribbon="0" MasterMedal="4" Ensign="0" Rank="17" Slot="2" ReqT1="15" ReqT2="0"/>
+	<Title Id="17" List="4" Medal="13" Ribbon="0" MasterMedal="3" Ensign="0" Rank="21" Slot="3" ReqT1="16" ReqT2="32"/>
+	<Title Id="18" List="4" Medal="21" Ribbon="0" MasterMedal="6" Ensign="0" Rank="26" Slot="2" ReqT1="17" ReqT2="0"/>
+	<Title Id="19" List="4" Medal="26" Ribbon="0" MasterMedal="3" Ensign="0" Rank="31" Slot="3" ReqT1="18" ReqT2="0"/>
+	<Title Id="20" List="6" Medal="0" Ribbon="0" MasterMedal="1" Ensign="6" Rank="8" Slot="2" ReqT1="7" ReqT2="0"/>
+	<Title Id="21" List="6" Medal="20" Ribbon="0" MasterMedal="2" Ensign="0" Rank="12" Slot="2" ReqT1="20" ReqT2="0"/>
+	<Title Id="22" List="6" Medal="20" Ribbon="0" MasterMedal="4" Ensign="0" Rank="17" Slot="2" ReqT1="21" ReqT2="0"/>
+	<Title Id="23" List="6" Medal="23" Ribbon="0" MasterMedal="21" Ensign="13" Rank="21" Slot="3" ReqT1="22" ReqT2="42"/>
+
+	<Title Id="24" List="6" Medal="28" Ribbon="0" MasterMedal="6" Ensign="0" Rank="26" Slot="3" ReqT1="23" ReqT2="0"/>
+	<Title Id="25" List="6" Medal="28" Ribbon="0" MasterMedal="7" Ensign="0" Rank="31" Slot="3" ReqT1="24" ReqT2="0"/>
+	<Title Id="26" List="3" Medal="1" Ribbon="0" MasterMedal="0" Ensign="6" Rank="8" Slot="2" ReqT1="5" ReqT2="0"/>
+	<Title Id="27" List="3" Medal="6" Ribbon="0" MasterMedal="0" Ensign="0" Rank="12" Slot="2" ReqT1="26" ReqT2="0"/>
+	<Title Id="28" List="3" Medal="14" Ribbon="0" MasterMedal="0" Ensign="3" Rank="17" Slot="2" ReqT1="27" ReqT2="0"/>
+	<Title Id="29" List="3" Medal="12" Ribbon="0" MasterMedal="6" Ensign="0" Rank="31" Slot="2" ReqT1="28" ReqT2="0"/>
+	<Title Id="30" List="5" Medal="0" Ribbon="0" MasterMedal="1" Ensign="9" Rank="8" Slot="2" ReqT1="6" ReqT2="0"/>
+	<Title Id="31" List="5" Medal="6" Ribbon="0" MasterMedal="2" Ensign="0" Rank="12" Slot="2" ReqT1="30" ReqT2="0"/>
+
+    <Title Id="32" List="5" Medal="14" Ribbon="0" MasterMedal="3" Ensign="0" Rank="17" Slot="2" ReqT1="31" ReqT2="0"/>
+    <Title Id="33" List="5" Medal="12" Ribbon="0" MasterMedal="4" Ensign="0" Rank="26" Slot="2" ReqT1="32" ReqT2="0"/>
+	<Title Id="34" List="5" Medal="14" Ribbon="0" MasterMedal="6" Ensign="0" Rank="31" Slot="2" ReqT1="33" ReqT2="0"/>
+	<Title Id="35" List="8" Medal="0" Ribbon="0" MasterMedal="1" Ensign="6" Rank="8" Slot="2" ReqT1="7" ReqT2="0"/>
+	<Title Id="36" List="8" Medal="8" Ribbon="0" MasterMedal="2" Ensign="0" Rank="12" Slot="2" ReqT1="35" ReqT2="0"/>
+	<Title Id="37" List="8" Medal="0" Ribbon="0" MasterMedal="4" Ensign="10" Rank="17" Slot="2" ReqT1="36" ReqT2="0"/>
+	<Title Id="38" List="8" Medal="0" Ribbon="0" MasterMedal="5" Ensign="13" Rank="26" Slot="2" ReqT1="37" ReqT2="0"/>
+	<Title Id="39" List="8" Medal="15" Ribbon="0" MasterMedal="6" Ensign="0" Rank="31" Slot="2" ReqT1="38" ReqT2="0"/>
+	
+    <Title Id="40" List="7" Medal="6" Ribbon="0" MasterMedal="1" Ensign="0" Rank="8" Slot="2" ReqT1="7" ReqT2="0"/>
+	<Title Id="41" List="7" Medal="7" Ribbon="0" MasterMedal="2" Ensign="0" Rank="12" Slot="2" ReqT1="40" ReqT2="0"/>
+	<Title Id="42" List="7" Medal="0" Ribbon="0" MasterMedal="3" Ensign="20" Rank="17" Slot="2" ReqT1="41" ReqT2="0"/>
+	<Title Id="43" List="7" Medal="0" Ribbon="0" MasterMedal="5" Ensign="12" Rank="21" Slot="3" ReqT1="42" ReqT2="0"/>
+	<Title Id="44" List="7" Medal="15" Ribbon="0" MasterMedal="6" Ensign="0" Rank="31" Slot="3" ReqT1="43" ReqT2="0"/>
+</List>

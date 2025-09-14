@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Permission Key="1" 	Name="observer_enabled" 	Description="Enable observer check box in rooms"/>
+	<Permission Key="2" 	Name="helpcommand" 			Description="Allow to use :help %page% command"/>
+	<Permission Key="3" 	Name="hostcommand" 			Description="Allow to use room master commands"/>
+	<Permission Key="4" 	Name="testcommand" 			Description="Allow to use vip commands for speed-up dev phase"/>
+	<Permission Key="5" 	Name="moderatorcommand" 	Description="Allow to use all the commands for moderator"/>
+	<Permission Key="6" 	Name="gamemastercommand" 	Description="Allow to use all the commands for gamemaster"/>
+	<Permission Key="7" 	Name="developercommand" 	Description="Allow to use all the commands for developer"/>
+</List>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Mission Id="1" MasterMedal="0" Exp="0" Point="2000"/>
+	<Mission Id="2" MasterMedal="0" Exp="0" Point="0"/>
+	<Mission Id="3" MasterMedal="0" Exp="0" Point="0"/>
+	<Mission Id="5" MasterMedal="1" Exp="500" Point="0"/>
+	<Mission Id="6" MasterMedal="1" Exp="500" Point="0"/>
+	<Mission Id="7" MasterMedal="1" Exp="500" Point="0"/>
+	<Mission Id="8" MasterMedal="1" Exp="700" Point="0"/>
+	<Mission Id="9" MasterMedal="1" Exp="1000" Point="0"/>
+	<Mission Id="10" MasterMedal="1" Exp="2000" Point="0"/>
+	<Mission Id="11" MasterMedal="1" Exp="3000" Point="0"/>
+	<Mission Id="12" MasterMedal="1" Exp="4000" Point="0"/>
+	<Mission Id="14" MasterMedal="0" Exp="0" Point="0"/>
+	<Mission Id="15" MasterMedal="0" Exp="0" Point="0"/>
+	<Mission Id="16" MasterMedal="0" Exp="0" Point="0"/>
+	<Mission Id="17" MasterMedal="0" Exp="0" Point="0"/>
+</List>

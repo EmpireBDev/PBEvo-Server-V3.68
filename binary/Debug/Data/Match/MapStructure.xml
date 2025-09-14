@@ -1,0 +1,2516 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Map Id="1"> ;PortoAkaba
+		<Objects>
+			<Obj Id="0" NeedSync="true" Animation="255" Life="100">
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>				
+			</Obj>
+		</Objects>
+	</Map>
+	<Map Id="2"> ;Redrock
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="88" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="89" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="3"> ;Old Library
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="88" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="89" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="4"> ;Mstation
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="5"> ;Midnight Zone
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="85" NeedSync="false" Animation="255" Life="-1"/> ;Undestroyable
+		</Objects>
+	</Map>
+	<Map Id="6"> ;Uptown
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="true" Animation="255" Life="100"> ;Bondinho
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+		</Objects>
+	</Map>
+	<Map Id="7"> ;Burning Hall
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="88" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="89" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="90" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="8"> ;DSquad
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="88" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="89" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="90" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="91" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="92" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="93" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="94" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="95" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="96" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="97" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="98" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="99" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="100" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="101" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="102" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="103" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="104" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="105" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="106" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="107" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="108" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="109" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="110" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="111" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="112" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="113" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="114" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="115" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="116" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="117" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="118" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="119" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="120" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="121" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="122" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="123" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="124" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="125" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="126" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="127" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="128" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="129" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="130" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="121" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="122" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="123" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="124" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="125" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="126" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="127" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="128" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="129" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="130" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="131" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="132" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="133" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="134" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="135" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="136" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="137" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="138" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="139" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="140" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="141" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="142" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="143" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="144" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="145" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="146" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="147" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="148" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="149" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="150" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="151" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="152" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="153" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="154" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="155" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="156" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="157" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="158" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="159" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="160" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="161" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="162" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="163" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="164" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="165" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="166" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="167" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="168" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="169" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="170" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="171" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="172" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="173" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="174" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="175" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="176" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="177" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="178" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="179" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="9"> ; Crackdown
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Undestroyable
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="88" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="89" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="10"> ;Saint Mansion
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="11"> ;Eastern Road
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="12"> ;Downtown
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+		<BombPositions>
+			<Bomb X="34,293" Y="5,647" Z="33,7287"/>
+			<Bomb X="-25,9819" Y="8,868" Z="31,4846"/>
+		</BombPositions>
+	</Map>
+	<Map Id="13"> ;Luxville
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+		<BombPositions>
+			<Bomb X="-3,9285" Y="7,5416" Z="-24,7105"/>
+			<Bomb X="-14,7611" Y="8,5729" Z="9,3977"/>
+		</BombPositions>
+	</Map>
+	<Map Id="14"> ;BlowCity
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+		<BombPositions>
+			<Bomb X="-14,4126" Y="7,4243" Z="34,4615"/>
+			<Bomb X="26,2644" Y="4,0227" Z="-7,032"/>
+		</BombPositions>
+	</Map>
+	<Map Id="15"> ;StormTube
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="true" Animation="255" Life="-1"> ;Estrutura móvel
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="true" Animation="255" Life="100"> ;Unk TREM?
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+			<Obj Id="57" NeedSync="true" Animation="255" Life="100"> ;Unk TREM?
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="88" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="89" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="90" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="91" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="92" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="93" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="94" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="95" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="96" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="97" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="98" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="99" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="100" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="101" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="102" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="103" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="104" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="105" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="106" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="107" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="108" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="109" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="110" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="111" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="112" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="113" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="114" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="115" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="116" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="117" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="118" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="119" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="120" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="121" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="122" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="123" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="124" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="125" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="126" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="127" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="128" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="129" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="130" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="121" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="122" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="123" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="124" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="125" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="126" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="127" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="128" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+		<BombPositions>
+			<Bomb X="-14,19" Y="1,5345" Z="40,6694"/>
+			<Bomb X="35,0631" Y="2,2185" Z="2,1828"/>
+		</BombPositions>
+	</Map>
+	<Map Id="17"> ;Breakdown
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="257" Life="6000"/> ;Objetivo Azul
+			<Obj Id="1" NeedSync="false" Animation="256" Life="6000"/> ;Objetivo Vermelho?
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="11" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="12" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="13" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="14" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="15" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="16" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="17" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="18" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="19" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="20" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+			<Obj Id="21" NeedSync="false" Animation="255" Life="-1"/> ;Barril
+		</Objects>
+	</Map>
+	<Map Id="18"> ;Training Camp
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Tenda Vermelha
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Tenda Vermelha
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Tenda Azul
+		</Objects>
+	</Map>
+	<Map Id="19"> ;SentryBase
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="22"> ;FaceRock
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Barra no centro do mapa (perto da base azul)
+			<Obj Id="4" NeedSync="false" Animation="255" Life="-1"/> ;Barra no centro do mapa (perto da base azul)
+		</Objects>
+	</Map>
+	<Map Id="23"> ;SentryBase
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+		<BombPositions>
+			<Bomb X="-17,73" Y="5,0493" Z="37,8093"/>
+			<Bomb X="32,8641" Y="6,9361" Z="12,0217"/>
+		</BombPositions>
+	</Map>
+	<Map Id="24"> ;SandStorm
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Tabua 1 (Base Azul)
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Tabua 2 (Base Azul)
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Tabua 3 (Base Azul)
+			;vai ate 88
+		</Objects>
+		<BombPositions>
+			<Bomb X="-5,6554" Y="0,1056" Z="27,5373"/>
+			<Bomb X="34,2612" Y="-2,8873" Z="13,4926"/>
+		</BombPositions>
+	</Map>
+	<Map Id="25"> ;ShoppingCenter
+		<Objects>
+		</Objects>
+		<BombPositions>
+			<Bomb X="-43,5916" Y="1,525" Z="19,192"/>
+			<Bomb X="23,4202" Y="1,525" Z="8,7669"/>
+		</BombPositions>
+	</Map>
+	<Map Id="27"> ;DragonAlley
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="88" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="89" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="90" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="91" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="92" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="93" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="94" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="95" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="96" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="97" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="98" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="99" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="100" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="101" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="102" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="103" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="104" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="105" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="106" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="107" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="108" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="109" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="110" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="111" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="112" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="113" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="114" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="115" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="116" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="117" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="118" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="119" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="120" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="121" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="122" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="123" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="124" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="125" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="126" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="127" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="128" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="129" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="130" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="121" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="122" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="123" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="124" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="125" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="126" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="127" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="128" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="129" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="130" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="131" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="132" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="133" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="134" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="135" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="136" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="137" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="138" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="139" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="140" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="141" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="142" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="143" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="144" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="32"> ;GrandBazaar
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="34"> ;TaipeiCityMall
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Portão
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Portão
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Portão
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Portão
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Portão
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Portão2
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Portão2
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Portão2
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Portão2
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Portão2
+		</Objects>
+	</Map>
+	<Map Id="36"> ;Metrô
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="37"> ;Rush Hour
+		<Objects>
+			<Obj Id="4" NeedSync="true" Animation="255" Life="100"> ;Bondinho
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+		</Objects>
+	</Map>
+	<Map Id="38"> ;CargoPort
+		<Objects>
+			<Obj Id="0" NeedSync="true" Animation="255" Life="-1">
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+			<Obj Id="1" NeedSync="true" Animation="255" Life="-1">
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+		</Objects>
+	</Map>
+	<Map Id="41"> ;WestStation
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="43"> ;Outpost
+		<Objects>
+			<Obj Id="0" NeedSync="true" Animation="255" Life="100"> ;Guindaste
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="88" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="89" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="90" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="91" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="92" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="93" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="94" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="95" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="96" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="97" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="98" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="99" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="100" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="101" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="102" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="103" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="104" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="105" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="106" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="107" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="108" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="109" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="110" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="111" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="112" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="113" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="114" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="115" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="116" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="117" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="118" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="119" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="120" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="121" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="122" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="123" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="124" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="125" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="126" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="127" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="128" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="129" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="130" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="121" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="122" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="123" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="124" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="125" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="126" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="127" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="128" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="129" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="130" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="131" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="132" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="133" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="134" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="135" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="136" NeedSync="true" Animation="255" Life="3000"> ;Helicopter (Animação 0-parado|1-voando)
+				<Anims>
+					<Sync Id="0" Date="0" Next="1" OtherOBJ="0" OtherANIM="0"/>
+					<Sync Id="1" Date="104,0" Next="0" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+				<DestroyEffects>
+					<Effect Id="1" Percent="900"/> ;Danificado
+					<Effect Id="2" Percent="0"/> ;Destruido
+				</DestroyEffects>
+			</Obj>
+			<Obj Id="137" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="138" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="139" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="140" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="141" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="142" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="143" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="144" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="145" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="146" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="147" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="148" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="149" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="154" NeedSync="false" Animation="255" Life="100"/> ;Placa de trás dos Estintores
+			<Obj Id="155" NeedSync="false" Animation="255" Life="100"/> ;Placa de trás dos Estintores
+			<Obj Id="156" NeedSync="false" Animation="255" Life="100"/> ;Placa de trás dos Estintores
+			<Obj Id="157" NeedSync="false" Animation="255" Life="100"/> ;Placa de trás dos Estintores
+			<Obj Id="158" NeedSync="false" Animation="255" Life="100"/> ;Placa de trás dos Estintores
+			<Obj Id="159" NeedSync="false" Animation="255" Life="100"/> ;Placa de trás dos Estintores
+			<Obj Id="160" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="161" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="162" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="163" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="164" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="165" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="166" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="167" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="168" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="169" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="170" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="171" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="172" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG
+			<Obj Id="173" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG			
+			<Obj Id="174" NeedSync="false" Animation="255" Life="100"/> ;Caixa da RPG				
+			<Obj Id="175" NeedSync="false" Animation="255" Life="100"/> ;Estintor (Unk)
+			<Obj Id="176" NeedSync="false" Animation="255" Life="100"/> ;Placa de trás dos Estintores
+		</Objects>
+		<BombPositions>
+			<Bomb X="17,6287" Y="7,4314" Z="15,1008"/>
+			<Bomb X="-17,7452" Y="12,9087" Z="-7,3912"/>
+		</BombPositions>
+	</Map>
+	<Map Id="44"> ;Hospital
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Janela Vermelha
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Janela Azul
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+		<BombPositions>
+			<Bomb X="21,6008" Y="1,9018" Z="37,7629"/>
+			<Bomb X="9,3496" Y="-3,7287" Z="8,6496"/>
+		</BombPositions>
+	</Map>
+	<Map Id="45"> ;Downtown2
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+		<BombPositions>
+			<Bomb X="-25,5113" Y="-11,7372" Z="43,5032"/>
+			<Bomb X="41,2873" Y="-8,688" Z="10,3582"/>
+		</BombPositions>
+	</Map>
+	<Map Id="46"> ;Cargoship
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Helicóptero Vermelho
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Vidro das Portas
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Vidro das Portas
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Vidro das Portas
+		</Objects>
+		<BombPositions>
+			<Bomb X="-0,4546" Y="0,025" Z="16,5189"/>
+			<Bomb X="-4,559" Y="-12,475" Z="21,4613"/>
+		</BombPositions>
+	</Map>
+	<Map Id="47"> ;Airport
+		<Objects>
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Eletronic Poster
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Eletronic Poster
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Eletronic Poster
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Eletronic Poster
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Eletronic Poster
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Eletronic Poster
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Eletronic Poster
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Eletronic Poster
+		</Objects>
+		<BombPositions>
+			<Bomb X="41,5855" Y="6" Z="7,7798"/>
+			<Bomb X="-41,3" Y="5,9983" Z="32,6104"/>
+		</BombPositions>
+	</Map>
+	<Map Id="48"> ;Safe House
+		<Objects>
+		</Objects>
+		<BombPositions>
+			<Bomb X="-32,104" Y="3,6092" Z="42,0769"/>
+			<Bomb X="28,9975" Y="6,0398" Z="16,967"/>
+		</BombPositions>
+	</Map>
+	<Map Id="49"> ;HardRock
+		<Objects>
+		</Objects>
+		<BombPositions>
+			<Bomb X="-8,5469" Y="0,492" Z="14,8582"/>
+		</BombPositions>
+	</Map>
+	<Map Id="51"> ;Helispot
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="true" Animation="257" Life="12000"> ;Helicóptero Azul
+				<Anims>
+					<Sync Id="7" Date="82,0" Next="8" OtherOBJ="50" OtherANIM="5"/>
+					<Sync Id="8" Date="60,0" Next="7" OtherOBJ="50" OtherANIM="6"/>
+				</Anims>
+				<DestroyEffects>
+					<Effect Id="1" Percent="3600"/> ;Danificado
+					<Effect Id="2" Percent="0"/> ;Destruido
+				</DestroyEffects>
+			</Obj>
+			<Obj Id="50" NeedSync="true" Animation="256" Life="12000"> ;Helicóptero Vermelho
+				<Anims>
+					<Sync Id="5" Date="82,0" Next="6" OtherOBJ="49" OtherANIM="7"/>
+					<Sync Id="6" Date="60,0" Next="5" OtherOBJ="49" OtherANIM="8"/>
+				</Anims>
+				<DestroyEffects>
+					<Effect Id="1" Percent="3600"/> ;Danificado
+					<Effect Id="2" Percent="0"/> ;Destruido
+				</DestroyEffects>
+			</Obj>
+			<Obj Id="51" NeedSync="true" Animation="255" Life="100"> ;Guindaste
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+		</Objects>
+	</Map>
+	<Map Id="52"> ;Black Panther
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="-1"/> ;Helicóptero de Respawn Vermelho
+			<Obj Id="9" NeedSync="false" Animation="259" Life="9000"/> ;Tanque B
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="258" Life="6000"/> ;Tanque A
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="53"> ;BreedingNest
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Portal 1
+			<Obj Id="1" NeedSync="false" Animation="255" Life="-1"/> ;Portal 2
+			<Obj Id="2" NeedSync="false" Animation="255" Life="-1"/> ;Portal 3
+			<Obj Id="3" NeedSync="false" Animation="255" Life="-1"/> ;Portal 4
+			<Obj Id="4" NeedSync="false" Animation="255" Life="-1"/> ;Portal 5
+			<Obj Id="5" NeedSync="false" Animation="255" Life="-1"/> ;Portal 6
+			<Obj Id="6" NeedSync="false" Animation="255" Life="-1"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="54"> ;Dino Uptown
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Portal 1
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="-1"/> ;Portal 2
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="55"> ;D_BreakDown
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Portal 1
+			<Obj Id="1" NeedSync="false" Animation="255" Life="-1"/> ;Portal 2
+			<Obj Id="2" NeedSync="false" Animation="255" Life="-1"/> ;Portal 3
+		</Objects>
+	</Map>
+	<Map Id="56"> ;DinoLab
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="250"/> ;Portão Principal Parte1
+			<Obj Id="1" NeedSync="false" Animation="255" Life="250"/> ;Portão Principal Parte2
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="70"> ;RampartTown
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="-1"/> ;Todas caixas de Bombons do mapa
+		</Objects>
+	</Map>
+	<Map Id="71"> ;Ballistic
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Vidro
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Vidro
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Vidro
+		</Objects>
+		<BombPositions>
+			<Bomb X="-23,7071" Y="11" Z="-11,4161"/>
+			<Bomb X="37,203" Y="4" Z="-10,3931"/>
+		</BombPositions>
+	</Map>
+	<Map Id="76"> ;FalluCity
+		<Objects>
+		</Objects>
+		<BombPositions>
+			<Bomb X="31,8379" Y="3,522" Z="28,3168"/>
+			<Bomb X="-51,0101" Y="3,522" Z="10,6951"/>
+		</BombPositions>
+	</Map>
+	<Map Id="78"> ; Zombie Mode
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="80"> ;New Library
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="2" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="3" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="4" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="5" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="6" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="7" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="8" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="9" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="10" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="11" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="12" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="13" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="14" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="15" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="16" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="17" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="18" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="19" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="20" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="21" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="22" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="23" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="24" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="25" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="26" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="27" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="28" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="29" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="30" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="31" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="32" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="33" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="34" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="35" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="36" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="37" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="38" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="39" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="40" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="41" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="42" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="43" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="44" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="45" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="46" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="47" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="48" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="49" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="50" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="51" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="52" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="53" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="54" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="55" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="56" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="57" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="58" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="59" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="60" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="61" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="62" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="63" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="64" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="65" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="66" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="67" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="68" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="69" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="70" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="71" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="72" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="73" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="74" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="75" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="76" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="77" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="78" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="79" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="80" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="81" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="82" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="83" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="84" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="85" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="86" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="87" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="88" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="89" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="90" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="91" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="92" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="93" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="94" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="95" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="96" NeedSync="false" Animation="255" Life="100"/> ;Unk
+			<Obj Id="97" NeedSync="false" Animation="255" Life="100"/> ;Unk
+		</Objects>
+	</Map>
+	<Map Id="84"> ;Marine Wave
+		<Objects>
+		</Objects>
+		<BombPositions>
+			<Bomb X="-27,2016" Y="7,214" Z="35,1119"/>
+			<Bomb X="29,1082" Y="9,5959" Z="15,6444"/>
+		</BombPositions>
+	</Map>
+	<Map Id="85"> ;Still Raid
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="100"/> ;unk
+			<Obj Id="1" NeedSync="false" Animation="255" Life="-1"/> ;case object
+		</Objects>
+	</Map>
+	<Map Id="88"> ;Broken Alley
+		<Objects>
+		</Objects>
+		<BombPositions>
+			<Bomb X="-17,48438" Y="5,023438" Z="41,875"/>
+			<Bomb X="-32,46875" Y="4,761719" Z="-19,375"/>
+		</BombPositions>
+	</Map>
+	<Map Id="91"> ;Provence
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="300"/> ;CAIXA GRANDE ATRAS DO BOMB A
+		</Objects>
+		<BombPositions>
+			<Bomb X="-25,96875" Y="-6,5" Z="-25,85938"/>
+			<Bomb X="39,25" Y="-1,72884E-06" Z="-30,75"/>
+		</BombPositions>
+	</Map>
+	<Map Id="93"> ;Mihawk
+		<Objects>
+		</Objects>
+		<BombPositions>
+			<Bomb X="33,125" Y="0,007835388" Z="-11,67188"/>
+			<Bomb X="-7,425781" Y="2,537109" Z="-35,46875"/>
+		</BombPositions>
+	</Map>
+	<Map Id="94"> ;Dessert Canyon
+		<Objects>
+			<Obj Id="0" NeedSync="true" Animation="255" Life="-1">
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+			<Obj Id="1" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="2" NeedSync="true" Animation="255" Life="-1">
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+			<Obj Id="3" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="4" NeedSync="true" Animation="255" Life="-1">
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+			<Obj Id="5" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="6" NeedSync="true" Animation="255" Life="-1">
+				<Anims>
+					<Sync Id="255" Date="0" Next="255" OtherOBJ="0" OtherANIM="0"/>
+				</Anims>
+			</Obj>
+			<Obj Id="7" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="9" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="11" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="13" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="15" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="17" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="19" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="21" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="22" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="24" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="45" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="47" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="49" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="52" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="54" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="56" NeedSync="false" Animation="255" Life="-1"/>
+			<Obj Id="58" NeedSync="false" Animation="255" Life="-1"/>
+		</Objects>
+	</Map>
+	<Map Id="95"> ;New Library
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="1" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="2" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="3" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="4" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="5" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="6" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="7" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="8" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="9" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="10" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="11" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel
+			<Obj Id="12" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel				
+			<Obj Id="13" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="14" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="15" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="16" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="17" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="18" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="19" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="20" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="21" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="22" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="23" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="24" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="25" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="26" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="27" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="28" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+			<Obj Id="29" NeedSync="false" Animation="255" Life="200"/> ;Chão Destrutivel	
+		</Objects>
+	</Map>
+	<Map Id="96"> ;Two Towers (Space)
+		<Objects>
+		</Objects>
+	</Map>
+	<Map Id="98"> ;FortSantiago
+		<Objects>
+			<Obj Id="0" NeedSync="false" Animation="255" Life="150"/> ;Parede Destrutivel Bomb A
+			<Obj Id="1" NeedSync="false" Animation="255" Life="150"/> ;Parede Destrutivel Bomb A
+			<Obj Id="2" NeedSync="false" Animation="255" Life="150"/> ;Parede Destrutivel Bomb A
+			<Obj Id="3" NeedSync="false" Animation="255" Life="150"/> ;Parede Destrutivel Bomb A
+		</Objects>
+		<BombPositions>
+			<Bomb X="16,85938" Y="4,785156" Z="-13,94531"/>
+			<Bomb X="15,01563" Y="4,101563" Z="24,0625"/>
+		</BombPositions>
+	</Map>
+	<Map Id="99"> ;RoadSide
+		<Objects>
+		</Objects>
+	</Map>
+	<Map Id="100"> ;F Uptown
+		<Objects>
+		</Objects>
+	</Map>
+	<Map Id="103"> ;KhodsanRoad
+		<Objects>
+		</Objects>
+	</Map>
+</List>

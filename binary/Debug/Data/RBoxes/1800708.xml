@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="30"> ; PBIC2015 Gacha
+	<Item Index="0" 	Id="103219" Count="7776000" Percent="10" 	Special="false" Name="AUG A3 PBIC2015 (90Days)"/>
+	<Item Index="0" 	Id="800299" Count="7776000" Percent="10" 	Special="false" Name="Mask PBIC2015 Premium (90Days)"/>
+	<Item Index="1" 	Id="104216" Count="7776000" Percent="10" 	Special="false" Name="Kriss S.V PBIC2015 (90Days)"/>
+	<Item Index="1" 	Id="800299" Count="7776000" Percent="10" 	Special="false" Name="Mask PBIC2015 Premium (90Days)"/>
+	<Item Index="2" 	Id="104218" Count="7776000" Percent="10" 	Special="false" Name="P90 Ext PBIC2015 (90Days)"/>
+	<Item Index="2" 	Id="800299" Count="7776000" Percent="10" 	Special="false" Name="Mask PBIC2015 Premium (90Days)"/>
+	<Item Index="3" 	Id="106058" Count="7776000" Percent="10" 	Special="false" Name="M1887 PBIC2015 (90Days)"/>
+	<Item Index="3" 	Id="800299" Count="7776000" Percent="10" 	Special="false" Name="Mask PBIC2015 Premium (90Days)"/>
+	<Item Index="4" 	Id="105120" Count="7776000" Percent="10" 	Special="false" Name="Cheytac M200 PBIC2015 (90Days)"/>
+	<Item Index="4" 	Id="800299" Count="7776000" Percent="10" 	Special="false" Name="Mask PBIC2015 Premium (90Days)"/>
+	<Item Index="5" 	Id="301104" Count="7776000" Percent="10" 	Special="false" Name="Keris PBIC2015 (90Days)"/>
+	<Item Index="5" 	Id="800299" Count="7776000" Percent="10" 	Special="false" Name="Mask PBIC2015 Premium (90Days)"/>
+	<Item Index="6" 	Id="202070" Count="7776000" Percent="10" 	Special="false" Name="R.B 454 SS8M+S PBIC2015 (90Days)"/>
+	<Item Index="6" 	Id="800299" Count="7776000" Percent="10" 	Special="false" Name="Mask PBIC2015 Premium (90Days)"/>
+	<Item Index="7" 	Id="103219" Count="2592000" Percent="45" 	Special="false" Name="AUG A3 PBIC2015 (30Days)"/>
+	<Item Index="8" 	Id="104216" Count="2592000" Percent="45" 	Special="false" Name="Kriss S.V PBIC2015 (30Days)"/>
+	<Item Index="9" 	Id="104218" Count="2592000" Percent="45" 	Special="false" Name="P90 Ext PBIC2015 (30Days)"/>
+	<Item Index="10" 	Id="106058" Count="2592000" Percent="45" 	Special="false" Name="M1887 PBIC2015 (30Days)"/>
+	<Item Index="11" 	Id="105120" Count="2592000" Percent="45" 	Special="false" Name="Cheytac M200 PBIC2015 (30Days)"/>
+	<Item Index="12" 	Id="301104" Count="2592000" Percent="45" 	Special="false" Name="Keris PBIC2015 (30Days)"/>
+	<Item Index="13" 	Id="202070" Count="2592000" Percent="45" 	Special="false" Name="R.B 454 SS8M+S PBIC2015 (30Days)"/>
+	<Item Index="14" 	Id="800299" Count="2592000" Percent="45" 	Special="false" Name="Mask PBIC2015 Premium (30Days)"/>
+	<Item Index="15" 	Id="103219" Count="604800" 	Percent="70" 	Special="false" Name="AUG A3 PBIC2015 (7Days)"/>
+	<Item Index="16" 	Id="104216" Count="604800" 	Percent="70" 	Special="false" Name="Kriss S.V PBIC2015 (7Days)"/>
+	<Item Index="17" 	Id="104218" Count="604800" 	Percent="70" 	Special="false" Name="P90 Ext PBIC2015 (7Days)"/>
+	<Item Index="18" 	Id="106058" Count="604800" 	Percent="70" 	Special="false" Name="M1887 PBIC2015 (7Days)"/>
+	<Item Index="19" 	Id="105120" Count="604800" 	Percent="70" 	Special="false" Name="Cheytac M200 PBIC2015 (7Days)"/>
+	<Item Index="20" 	Id="301104" Count="604800" 	Percent="70" 	Special="false" Name="Keris PBIC2015 (7Days)"/>
+	<Item Index="21" 	Id="202070" Count="604800" 	Percent="70" 	Special="false" Name="R.B 454 SS8M+S PBIC2015 (7Days)"/>
+	<Item Index="22" 	Id="800299" Count="604800" 	Percent="70" 	Special="false" Name="Mask PBIC2015 Premium (7Days)"/>
+	<Item Index="23" 	Id="103219" Count="86400" 	Percent="90" 	Special="false" Name="AUG A3 PBIC2015 (1Days)"/>
+	<Item Index="24" 	Id="104216" Count="86400" 	Percent="90" 	Special="false" Name="Kriss S.V PBIC2015 (1Days)"/>
+	<Item Index="25" 	Id="104218" Count="86400" 	Percent="90" 	Special="false" Name="P90 Ext PBIC2015 (1Days)"/>
+	<Item Index="26" 	Id="106058" Count="86400" 	Percent="90" 	Special="false" Name="M1887 PBIC2015 (1Days)"/>
+	<Item Index="27" 	Id="105120" Count="86400" 	Percent="90" 	Special="false" Name="Cheytac M200 PBIC2015 (1Days)"/>
+	<Item Index="28" 	Id="301104" Count="86400" 	Percent="100" 	Special="false" Name="Keris PBIC2015 (1Days)"/>
+	<Item Index="29" 	Id="202070" Count="86400" 	Percent="100" 	Special="false" Name="R.B 454 SS8M+S PBIC2015 (1Days)"/>
+	<Item Index="30" 	Id="800299" Count="86400" 	Percent="100" 	Special="false" Name="Mask PBIC2015 Premium (1Days)"/>
+</List>

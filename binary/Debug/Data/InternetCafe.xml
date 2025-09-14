@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Bonus Id="1" BasicExp="100" BasicGold="5000" PremiumExp="120" PremiumGold="9000"/>
+	<Bonus Id="2" BasicExp="150" BasicGold="7000" PremiumExp="310" PremiumGold="18000"/>
+	<Bonus Id="3" BasicExp="300" BasicGold="15000" PremiumExp="500" PremiumGold="42000"/>
+</List>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Rank Id="0" Title="" OnNextLevel="2000" OnGoldUp="0" OnAllExp="0">
+		<Rewards>
+			<Item Id="103193" 	Name="AUG Lion Flame (1 day)" 					Count="86400"/>
+			<Item Id="202017" 	Name="Colt Python Gold D (1 day)" 				Count="86400"/>
+			<Item Id="301149" 	Name="Fang Blade Alien (1 day)" 				Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="1" Title="" OnNextLevel="3000" OnGoldUp="1000" OnAllExp="2000">
+		<Rewards>
+			<Item Id="104026" 	Name="Kriss S.V Gold (1 day)" 					Count="86400"/>
+			<Item Id="214004" 	Name="Dual D-Eagle Gold (1 day)" 				Count="86400"/>
+			<Item Id="301011" 	Name="Amok Kukri D (1 day)" 					Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="2" Title="" OnNextLevel="4000" OnGoldUp="2000" OnAllExp="5000">
+		<Rewards>
+			<Item Id="105087" 	Name="Cheytac M200 PBIC2014 (1 day)" 			Count="86400"/>
+			<Item Id="202023" 	Name="IMI Uzi 9mm (1 day)" 						Count="86400"/>
+			<Item Id="301066" 	Name="Death Scythe (1 day)" 					Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="3" Title="" OnNextLevel="5000" OnGoldUp="4000" OnAllExp="9000">
+		<Rewards>
+			<Item Id="106017" 	Name="M1887 D (1 day)" 							Count="86400"/>
+			<Item Id="202022" 	Name="Colt 45 (1 day)" 							Count="86400"/>
+			<Item Id="301012" 	Name="Mine Axe D (1 day)" 						Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="4" Title="" OnNextLevel="7000" OnGoldUp="6000" OnAllExp="14000">
+		<Rewards>
+			<Item Id="103121" 	Name="AK47 PBIC2013 (2 days)" 					Count="172800"/>
+			<Item Id="301147" 	Name="Karambit (1 day)" 						Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="5" Title="" OnNextLevel="9000" OnGoldUp="8000" OnAllExp="21000">
+		<Rewards>
+			<Item Id="104075" 	Name="P90 Gold (2 days)" 						Count="172800"/>
+			<Item Id="301024" 	Name="Candy Cane (1 day)" 						Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="6" Title="" OnNextLevel="11000" OnGoldUp="8000" OnAllExp="30000">
+		<Rewards>
+			<Item Id="105015" 	Name="L11501 Gold (2 days)" 					Count="172800"/>
+			<Item Id="301021" 	Name="Keris (1 day)" 							Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="7" Title="" OnNextLevel="13500" OnGoldUp="8000" OnAllExp="41000">
+		<Rewards>
+			<Item Id="106018" 	Name="SPAS15 MSC (2 days)" 						Count="172800"/>
+			<Item Id="301041" 	Name="Arabian Sword (1 day)" 					Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="8" Title="" OnNextLevel="16000" OnGoldUp="10000" OnAllExp="54500">
+		<Rewards>
+			<Item Id="103114" 	Name="M401 Elite (2 days)" 						Count="172800"/>
+			<Item Id="301017" 	Name="Fang Blade (1 day)" 						Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="9" Title="" OnNextLevel="18500" OnGoldUp="10000" OnAllExp="70500">
+		<Rewards>
+			<Item Id="104136" 	Name="OA93 Gold (2 days)" 						Count="172800"/>
+			<Item Id="301017" 	Name="Fang Blade (1 day)" 						Count="86400"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="10" Title="" OnNextLevel="21000" OnGoldUp="10000" OnAllExp="89000">
+		<Rewards>
+			<Item Id="105017" 	Name="L115A1 D (2 days)" 						Count="172800"/>
+			<Item Id="407056" 	Name="K400 Alien (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="11" Title="" OnNextLevel="24000" OnGoldUp="10000" OnAllExp="110000">
+		<Rewards>
+			<Item Id="106011" 	Name="870MCS_W D (1 day)" 						Count="86400"/>
+			<Item Id="301047" 	Name="Keris XMAS (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="12" Title="" OnNextLevel="27000" OnGoldUp="12000" OnAllExp="134000">
+		<Rewards>
+			<Item Id="202052" 	Name="C. Python TOY (1 day)" 					Count="86400"/>
+			<Item Id="601397" 	Name="Halloween Nurse Tarantula (3 days)" 		Count="259200"/>
+			<Item Id="602400" 	Name="Halloween Nurse Keen Eyes (3 days)" 		Count="259200"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="13" Title="" OnNextLevel="30000" OnGoldUp="12000" OnAllExp="161000">
+		<Rewards>
+			<Item Id="202011" 	Name="Glock18 (1 day)" 							Count="86400"/>
+			<Item Id="601037" 	Name="Wordcup Tarantula (3 days)" 				Count="259200"/>
+			<Item Id="602053" 	Name="Soccer Hide (3 days)" 					Count="259200"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="14" Title="" OnNextLevel="33000" OnGoldUp="12000" OnAllExp="191000">
+		<Rewards>
+			<Item Id="202011" 	Name="Glock18 (1 day)" 							Count="86400"/>
+			<Item Id="601149" 	Name="Hitman D-Fox (3 days)" 					Count="259200"/>
+			<Item Id="602237" 	Name="Hitman Leopard (3 days)" 					Count="259200"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="15" Title="" OnNextLevel="36000" OnGoldUp="12000" OnAllExp="224000">
+		<Rewards>
+			<Item Id="202021" 	Name="Glock18 D (1 day)" 						Count="86400"/>
+			<Item Id="601089" 	Name="Vacance 2017 Viper Red (1 day)" 			Count="86400"/>
+			<Item Id="602177" 	Name="Vacance 2017 Hide (1 day)" 				Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="16" Title="" OnNextLevel="41000" OnGoldUp="12000" OnAllExp="260000">
+		<Rewards>
+			<Item Id="202021" 	Name="Glock18 D (1 day)" 						Count="86400"/>
+			<Item Id="703001" 	Name="Santa HAT (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="17" Title="" OnNextLevel="46000" OnGoldUp="14000" OnAllExp="301000">
+		<Rewards>
+			<Item Id="202026" 	Name="HK69 (1 day)" 							Count="86400"/>
+			<Item Id="601122" 	Name="Ninja Rica (1 day)" 						Count="86400"/>
+			<Item Id="602210" 	Name="Ninja Chou (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="18" Title="" OnNextLevel="51000" OnGoldUp="14000" OnAllExp="347000">
+		<Rewards>
+			<Item Id="202083" 	Name="Colt Python Beast (1 day)" 				Count="86400"/>
+			<Item Id="601244" 	Name="Vacance 2017 Tarantula (1 day)" 			Count="86400"/>
+			<Item Id="602156" 	Name="Vacance 2017 Keen Eyes (1 day)" 			Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="19" Title="" OnNextLevel="56000" OnGoldUp="14000" OnAllExp="398000">
+		<Rewards>
+			<Item Id="202083" 	Name="Colt Python Beast (1 day)" 				Count="86400"/>
+			<Item Id="601136" 	Name="Hitman Red Bulls (1 day)" 				Count="86400"/>
+			<Item Id="602224" 	Name="Hitman Acid Poll (1 day)" 				Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="20" Title="" OnNextLevel="62000" OnGoldUp="14000" OnAllExp="454000">
+		<Rewards>
+			<Item Id="202083" 	Name="Colt Python Beast (1 day)" 				Count="86400"/>
+			<Item Id="601328" 	Name="High School Rica (1 day)" 				Count="86400"/>
+			<Item Id="602328" 	Name="High School Chou (1 day)" 				Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="21" Title="" OnNextLevel="68000" OnGoldUp="16000" OnAllExp="516000">
+		<Rewards>
+			<Item Id="301017" 	Name="Fang Blade (1 day)" 						Count="86400"/>
+			<Item Id="803015" 	Name="Alien Mask (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="22" Title="" OnNextLevel="74000" OnGoldUp="16000" OnAllExp="584000">
+		<Rewards>
+			<Item Id="301017" 	Name="Fang Blade (1 day)" 						Count="86400"/>
+			<Item Id="800323" 	Name="Mask Demonic (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="23" Title="" OnNextLevel="80000" OnGoldUp="16000" OnAllExp="658000">
+		<Rewards>
+			<Item Id="301017" 	Name="Fang Blade (1 day)" 						Count="86400"/>
+			<Item Id="800216" 	Name="Mask PBIC2013 (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="24" Title="" OnNextLevel="86000" OnGoldUp="16000" OnAllExp="738000">
+		<Rewards>
+			<Item Id="301004" 	Name="Kukri (1 day)" 							Count="86400"/>
+			<Item Id="703018" 	Name="Chicken Hat (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="25" Title="" OnNextLevel="93000" OnGoldUp="16000" OnAllExp="824000">
+		<Rewards>
+			<Item Id="301049" 	Name="Arabian Sword 2 (1 day)" 					Count="86400"/>
+			<Item Id="703010" 	Name="Cangaceiro Hat (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="26" Title="" OnNextLevel="100000" OnGoldUp="18000" OnAllExp="917000">
+		<Rewards>
+			<Item Id="301009" 	Name="M7 Gold (1 day)" 							Count="86400"/>
+			<Item Id="703009" 	Name="TOY Hat (1 day)" 							Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="27" Title="" OnNextLevel="107000" OnGoldUp="18000" OnAllExp="1017000">
+		<Rewards>
+			<Item Id="301018" 	Name="Ballistic Knife (1 day)" 					Count="86400"/>
+			<Item Id="703001" 	Name="Santa Hat (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="28" Title="" OnNextLevel="114000" OnGoldUp="18000" OnAllExp="1124000">
+		<Rewards>
+			<Item Id="103063" 	Name="AUG A3 Esport (1 day)" 					Count="86400"/>
+			<Item Id="301009" 	Name="M7 Gold (1 day)" 							Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="29" Title="" OnNextLevel="121000" OnGoldUp="18000" OnAllExp="1238000">
+		<Rewards>
+			<Item Id="105128" 	Name="RangeMaster 338 CAMO (1 day)" 			Count="86400"/>
+			<Item Id="301012" 	Name="Mine Axe D (1 day)" 						Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="30" Title="" OnNextLevel="151000" OnGoldUp="18000" OnAllExp="1359000">
+		<Rewards>
+			<Item Id="105132" 	Name="Tactilite T2 Gold (1 day)" 				Count="86400"/>
+			<Item Id="301066" 	Name="Death Scythe (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="31" Title="" OnNextLevel="181000" OnGoldUp="20000" OnAllExp="1510000">
+		<Rewards>
+			<Item Id="301057" 	Name="Fang Blade Inferno (1 day)" 				Count="86400"/>
+			<Item Id="703010" 	Name="Cangaceiro Hat (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="32" Title="" OnNextLevel="211000" OnGoldUp="20000" OnAllExp="1691000">
+		<Rewards>
+			<Item Id="104011" 	Name="P90 Ext (1 day)" 							Count="86400"/>
+			<Item Id="301011" 	Name="Amok Kukri D (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="33" Title="" OnNextLevel="241000" OnGoldUp="20000" OnAllExp="1902000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1701027" 	Name="Recarregamento Rapido (1 qty)" 			Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="34" Title="" OnNextLevel="271000" OnGoldUp="20000" OnAllExp="2143000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1710047" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="35" Title="" OnNextLevel="311000" OnGoldUp="20000" OnAllExp="2414000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1701030" 	Name="Bullet Proof Vest (1 qty)" 				Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="36" Title="" OnNextLevel="351000" OnGoldUp="22000" OnAllExp="2725000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1701026" 	Name="Troca Rápida (1 qty)" 					Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="37" Title="" OnNextLevel="391000" OnGoldUp="22000" OnAllExp="3076000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1701032" 	Name="Hollow Point Plus (1 qty)" 				Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="38" Title="" OnNextLevel="413000" OnGoldUp="22000" OnAllExp="3467000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1701017" 	Name="Receber Drop (1 qty)" 					Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="39" Title="" OnNextLevel="471000" OnGoldUp="22000" OnAllExp="3898000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1710047" 	Name="Alteração de nick (1 qty)" 				Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="40" Title="" OnNextLevel="521000" OnGoldUp="22000" OnAllExp="4369000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1701162" 	Name="O bom perdedor (1 qty)" 					Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="41" Title="" OnNextLevel="571000" OnGoldUp="24000" OnAllExp="4890000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1701080" 	Name="100% Redução de Respawn (1 qty)" 			Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="42" Title="" OnNextLevel="621000" OnGoldUp="24000" OnAllExp="5461000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1701031" 	Name="Bala de Ferro (1 qty)" 					Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="43" Title="" OnNextLevel="671000" OnGoldUp="24000" OnAllExp="6082000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1701034" 	Name="C4 Speed Kit (1 qty)" 					Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="44" Title="" OnNextLevel="721000" OnGoldUp="24000" OnAllExp="6753000">
+		<Rewards>
+			<Item Id="2000500" 	Name="Alteração de Nick (1 qty)" 				Count="1"/>
+			<Item Id="1711047" 	Name="Alteração de nick (1 qty)" 				Count="1"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="45" Title="" OnNextLevel="781000" OnGoldUp="24000" OnAllExp="7474000">
+		<Rewards>
+			<Item Id="601286" 	Name="Viper General (1 day)" 					Count="86400"/>
+			<Item Id="602287" 	Name="Hide General (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="46" Title="" OnNextLevel="851000" OnGoldUp="28000" OnAllExp="8255000">
+		<Rewards>
+			<Item Id="2001000" 	Name="Point Up 100,000 (1 qty)" 				Count="1"/>
+			<Item Id="800216" 	Name="Mask PBIC2013 (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="47" Title="" OnNextLevel="931000" OnGoldUp="32000" OnAllExp="9106000">
+		<Rewards>
+			<Item Id="2001000" 	Name="Point Up 100,000 (1 qty)" 				Count="1"/>
+			<Item Id="800216" 	Name="Mask PBIC2013 (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="48" Title="" OnNextLevel="1021000" OnGoldUp="36000" OnAllExp="10037000">
+		<Rewards>
+			<Item Id="2001000" 	Name="Point Up 100,000 (1 qty)" 				Count="1"/>
+			<Item Id="800216" 	Name="Mask PBIC2013 (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="49" Title="" OnNextLevel="1121000" OnGoldUp="40000" OnAllExp="11058000">
+		<Rewards>
+			<Item Id="2001000" 	Name="Point Up 100,000 (1 qty)" 				Count="1"/>
+			<Item Id="800216" 	Name="Mask PBIC2013 (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+	<Rank Id="50" Title="" OnNextLevel="100000000" OnGoldUp="60000" OnAllExp="12179000">
+		<Rewards>
+			<Item Id="2001000" 	Name="Point Up 100,000 (1 qty)" 				Count="1"/>
+			<Item Id="800216" 	Name="Mask PBIC2013 (1 day)" 					Count="86400"/>
+		</Rewards>
+	</Rank>
+</List>

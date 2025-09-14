@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<!-- Normal Character -->
+	<Chara Id="601001" HP="100"/> ;Red Bulls
+	<Chara Id="602002" HP="100"/> ;Acid Pol
+	<Chara Id="601003" HP="100"/> ;Tarantula
+	<Chara Id="602004" HP="100"/> ;Keen Eyes
+	<Chara Id="601005" HP="100"/> ;Viper Red
+	<Chara Id="602009" HP="100"/> ;Hide
+	<Chara Id="601007" HP="100"/> ;D-Fox
+	<Chara Id="602008" HP="100"/> ;Laopard
+	<Chara Id="601010" HP="100"/> ;Rica
+	<Chara Id="602011" HP="100"/> ;Chou
+	<Chara Id="601069" HP="100"/> ;Caiman Grey
+	<Chara Id="602070" HP="100"/> ;Wolf
+	<!-- Enchanced Character -->
+	<Chara Id="601136" HP="120"/> ;Hitman Red Bulls
+	<Chara Id="602224" HP="120"/> ;Hitman Acid Pol
+	<Chara Id="601149" HP="120"/> ;Hitman D-Fox
+	<Chara Id="602237" HP="120"/> ;Hitman Leopard
+	<Chara Id="601122" HP="120"/> ;Ninja Rica
+	<Chara Id="602210" HP="120"/> ;Ninja Chou
+	<Chara Id="601286" HP="120"/> ;General Viper Red
+	<Chara Id="602287" HP="120"/> ;General Hide
+	<Chara Id="601328" HP="120"/> ;High School Rica
+	<Chara Id="602328" HP="120"/> ;High School Chou
+	<Chara Id="601244" HP="120"/> ;Vacance 2017 Tarantula
+	<Chara Id="602156" HP="120"/> ;Vacance 2017 Keen Eyes
+	<Chara Id="601089" HP="120"/> ;Vacance 2017 Viper Red
+	<Chara Id="602177" HP="120"/> ;Vacance 2017 Hide
+	<Chara Id="601397" HP="120"/> ;Halloween Nurse Tarantula
+	<Chara Id="602400" HP="120"/> ;Halloween Nurse Keen Eyes
+	<!-- Idol Character -->
+	<Chara Id="601666" HP="100"/> ;Natasha
+	<Chara Id="602667" HP="100"/> ;Queen
+	<Chara Id="632660" HP="100"/> ;Gwoon Office (FR)
+	<Chara Id="664661" HP="100"/> ;Gwoon Office (CT)
+	<Chara Id="632656" HP="100"/> ;Dajeong Office (FR)
+	<Chara Id="664657" HP="100"/> ;Dajeong Office (CT)
+	<!-- Dino Item -->
+	<Chara Id="1500511" HP="400"/> ;Raptor
+	<Chara Id="1500512" HP="450"/> ;Elite
+	<Chara Id="1500513" HP="100"/> ;Acid 
+	<Chara Id="1500514" HP="350"/> ;Sting
+	<Chara Id="1500516" HP="500"/> ;Tank
+</List>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="9"> ; Point Bomb Premium
+	<Item Index="0" 	Id="2000010" Count="1" Percent="100" 	Special="false" Name="Point Up 1,000 (1Qty)"/>	
+	<Item Index="1" 	Id="2000030" Count="1" Percent="100" 	Special="false" Name="Point Up 3,000 (1Qty)"/>	
+	<Item Index="2" 	Id="2000050" Count="1" Percent="100" 	Special="false" Name="Point Up 5,000 (1Qty)"/>	
+	<Item Index="3" 	Id="2000100" Count="1" Percent="50" 	Special="false" Name="Point Up 10,000 (1Qty)"/>	
+	<Item Index="4" 	Id="2000200" Count="1" Percent="50" 	Special="false" Name="Point Up 20,000 (1Qty)"/>	
+	<Item Index="5" 	Id="2000300" Count="1" Percent="50" 	Special="false" Name="Point Up 30,000 (1Qty)"/>	
+	<Item Index="6" 	Id="2000500" Count="1" Percent="40" 	Special="false" Name="Point Up 50,000 (1Qty)"/>	
+	<Item Index="7" 	Id="2001000" Count="1" Percent="30" 	Special="false" Name="Point Up 100,000 (1Qty)"/>	
+	<Item Index="8" 	Id="2005000" Count="1" Percent="20" 	Special="false" Name="Point Up 500,000 (1Qty)"/>
+	<Item Index="9" 	Id="2010000" Count="1" Percent="10" 	Special="true" 	Name="Point Up 1,000,000 (1Qty)"/>
+</List>

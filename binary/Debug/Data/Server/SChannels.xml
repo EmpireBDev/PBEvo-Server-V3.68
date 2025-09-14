@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+    <Server Id="0" State="false" 	Host="127.0.0.1" Port="39190" Type="All" 			Mobile="false" 	MaxPlayers="2000" ChannelPlayers="180"/>
+	<Server Id="1" State="true" 	Host="127.0.0.1" Port="39191" Type="Public" 		Mobile="false" 	MaxPlayers="2000" ChannelPlayers="180"/>
+	<Server Id="2" State="true" 	Host="127.0.0.1" Port="39192" Type="Public" 		Mobile="false" 	MaxPlayers="2000" ChannelPlayers="180"/>
+	<Server Id="3" State="true" 	Host="127.0.0.1" Port="39193" Type="Public" 		Mobile="false" 	MaxPlayers="2000" ChannelPlayers="180"/>
+	<Server Id="4" State="true" 	Host="127.0.0.1" Port="39194" Type="Public" 		Mobile="false" 	MaxPlayers="2000" ChannelPlayers="180"/>
+	<Server Id="5" State="true" 	Host="127.0.0.1" Port="39195" Type="Expert" 		Mobile="false" 	MaxPlayers="2000" ChannelPlayers="180"/>
+	<Server Id="6" State="true" 	Host="127.0.0.1" Port="39196" Type="Expert" 		Mobile="false" 	MaxPlayers="2000" ChannelPlayers="180"/>
+	<Server Id="7" State="true" 	Host="127.0.0.1" Port="39197" Type="Clan" 			Mobile="false" 	MaxPlayers="2000" ChannelPlayers="180"/>
+	<Server Id="8" State="true" 	Host="127.0.0.1" Port="39198" Type="Championship" 	Mobile="false" 	MaxPlayers="2000" ChannelPlayers="180"/>
+</List>

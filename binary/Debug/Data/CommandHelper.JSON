@@ -1,0 +1,27 @@
+{
+    "Command": 
+	[
+		{
+			"Tag": "WeaponsFlag",
+			"AllWeapons": "511",
+			"AssaultRifle": "31",
+			"SubMachineGun": "47",
+			"SniperRifle": "79",
+			"ShotGun": "143",
+			"MachineGun": "271",
+			"Secondary": "11",
+			"Melee": "15",
+			"Knuckle": "527",
+			"RPG7": "511"
+		},
+		{
+			"Tag": "PlayTime",
+			"Minutes05": "85",
+			"Minutes10": "101",
+			"Minutes15": "117",
+			"Minutes20": "133",
+			"Minutes25": "149",
+			"Minutes30": "165"
+		}
+    ]
+}

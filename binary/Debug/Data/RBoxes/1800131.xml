@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List Count="13"> ; FaceBook Box
+	<Item Index="0" 	Id="1701064" Count="1"  Percent="30" 	Special="false" Name="Quick Respawn 50% (1Days)"/>	
+	<Item Index="1" 	Id="1701028" Count="1"  Percent="40" 	Special="false" Name="Mega HP 10% (1Days)"/>	
+	<Item Index="2" 	Id="1701026" Count="1"  Percent="60" 	Special="false" Name="Quick Change Weapon (1Day)"/>	
+	<Item Index="3" 	Id="1701036" Count="1"  Percent="40" 	Special="false" Name="Jack Hollow Point (1Day)"/>	
+	<Item Index="4" 	Id="1701044" Count="1"  Percent="60" 	Special="false" Name="Bullet Proof Vest Plus 10% (1Day)"/>	
+	<Item Index="5" 	Id="1701185" Count="1"  Percent="60" 	Special="false" Name="Extended Magazines (1Day)"/>	
+	<Item Index="6" 	Id="1701034" Count="1"  Percent="60" 	Special="false" Name="C4 Tool Kit (1Day)"/>	
+	<Item Index="7" 	Id="1701027" Count="1"  Percent="60" 	Special="false" Name="Quick Change Reload (1Day)"/>	
+	<Item Index="8" 	Id="1701017" Count="1"  Percent="60" 	Special="false" Name="Get Dropped Weapon (1Day)"/>
+	<Item Index="9" 	Id="1701014" Count="1"  Percent="60" 	Special="false" Name="Crosshair Color (1Day)"/>
+	<Item Index="10" 	Id="508002"  Count="15" Percent="100" 	Special="false" Name="FlashBang (15Qty)"/>
+	<Item Index="11" 	Id="2000050" Count="1"  Percent="100" 	Special="false" Name="Point Up 5,000 (1Qty)"/>
+	<Item Index="12" 	Id="2001000" Count="1"  Percent="10" 	Special="false" Name="Point Up 100,000 (1Qty)"/>
+	<Item Index="13" 	Id="2000500" Count="1"  Percent="20" 	Special="false" Name="Point Up 50,000 (1Qty)"/>
+</List>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Item Id="103004" 		Name="K-2"/>
+	<Item Id="104006" 		Name="K-1"/>
+	<Item Id="105003" 		Name="SSG-69"/>
+	<Item Id="106001" 		Name="870-MCS"/>
+	<Item Id="110009" 		Name="MK-46"/>
+	<Item Id="202003" 		Name="K-5"/>
+	<Item Id="301001" 		Name="M-7"/>
+	<Item Id="323001" 		Name="Barefist"/>
+	<Item Id="407001" 		Name="K-400"/>
+	<Item Id="508001" 		Name="Smoke"/>
+	<Item Id="601001" 		Name="Red Bulls"/>
+	<Item Id="602002" 		Name="Acid Pool"/>
+	<Item Id="1500511" 		Name="Dino Raptor"/>
+	<Item Id="1500512" 		Name="Dino Sting"/>
+	<Item Id="1500513" 		Name="Dino Acid"/>
+	<Item Id="1000700000" 	Name="Part Head"/>
+	<Item Id="1000800000" 	Name="Part Face"/>
+	<Item Id="1000900000" 	Name="Part Jacket"/>
+	<Item Id="1001000000" 	Name="Part Pocket"/>
+	<Item Id="1001100000" 	Name="Part Glove"/>
+	<Item Id="1001200000" 	Name="Part Belt"/>
+	<Item Id="1001300000" 	Name="Part Holster"/>
+	<Item Id="1001400000" 	Name="Part Skin"/>
+</List>

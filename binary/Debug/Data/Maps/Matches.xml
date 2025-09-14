@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Match Rule="1" Mode="Death Match">
+		<Count>
+			<Map Id="1" Limit="16" Tag="0" Name="Port Acaba" />
+			<Map Id="2" Limit="16" Tag="0" Name="Red Rock" />
+			<Map Id="3" Limit="16" Tag="0" Name="Old Library" />
+			<Map Id="4" Limit="16" Tag="0" Name="M, Station" />
+			<Map Id="5" Limit="16" Tag="0" Name="Midnight Zone" />
+			<Map Id="6" Limit="16" Tag="0" Name="Uptown" />
+			<Map Id="7" Limit="16" Tag="0" Name="Burning Hall" />
+			<Map Id="9" Limit="8" Tag="0" Name="Crack Down" />
+			<Map Id="10" Limit="8" Tag="0" Name="Saint Mansion" />
+			<Map Id="11" Limit="16" Tag="0" Name="Eastern Road" />
+			<Map Id="12" Limit="16" Tag="0" Name="Down Town" />
+			<Map Id="18" Limit="16" Tag="0" Name="Training Camp" />
+			<Map Id="20" Limit="16" Tag="0" Name="Desert Camp" />
+			<Map Id="21" Limit="16" Tag="0" Name="Kick Point" />
+			<Map Id="22" Limit="16" Tag="0" Name="Face Rock" />
+			<Map Id="23" Limit="16" Tag="0" Name="Supply Base" />
+			<Map Id="26" Limit="16" Tag="0" Name="Safari" />
+			<Map Id="27" Limit="16" Tag="0" Name="Dragon Alley" />
+			<Map Id="28" Limit="16" Tag="0" Name="Machu Pichu" />
+			<Map Id="29" Limit="16" Tag="0" Name="Two Towers" />
+			<Map Id="32" Limit="16" Tag="0" Name="Grand Bazzar" />
+			<Map Id="33" Limit="16" Tag="0" Name="Under 23" />
+			<Map Id="34" Limit="16" Tag="0" Name="Taipei City Mall" />
+			<Map Id="35" Limit="16" Tag="0" Name="Safari II" />
+			<Map Id="36" Limit="16" Tag="0" Name="Metro" />
+			<Map Id="37" Limit="16" Tag="0" Name="Rush Hour" />
+			<Map Id="41" Limit="8" Tag="0" Name="West Station" />
+			<Map Id="42" Limit="16" Tag="0" Name="House Museum" />
+			<Map Id="65" Limit="16" Tag="0" Name="Water Complex" />
+			<Map Id="69" Limit="16" Tag="0" Name="Battle Ship" />
+		</Count>
+	</Match>
+	<Match Rule="2" Mode="Bomb Mission">
+		<Count>
+			<Map Id="12" Limit="16" Tag="0" Name="Down Town" />
+			<Map Id="13" Limit="16" Tag="0" Name="Luxville" />
+			<Map Id="14" Limit="16" Tag="0" Name="Blow City" />
+			<Map Id="15" Limit="16" Tag="0" Name="Storm Tube" />
+			<Map Id="19" Limit="16" Tag="0" Name="Sentry Base" />
+			<Map Id="24" Limit="16" Tag="0" Name="Sand Storm" />
+			<Map Id="25" Limit="16" Tag="0" Name="Shopping Center" />
+			<Map Id="43" Limit="16" Tag="0" Name="Out Post" />
+			<Map Id="44" Limit="16" Tag="0" Name="Hospital" />
+			<Map Id="45" Limit="16" Tag="0" Name="Down Town II" />
+			<Map Id="46" Limit="16" Tag="0" Name="Cargo Ship" />
+			<Map Id="47" Limit="16" Tag="0" Name="Air Port" />
+			<Map Id="48" Limit="16" Tag="0" Name="Safe House" />
+		</Count>
+	</Match>
+	<Match Rule="3" Mode="Destroy">
+		<Count>
+			<Map Id="17" Limit="16" Tag="0" Name="Break Down" />
+			<Map Id="50" Limit="16" Tag="0" Name="Giran" />
+			<Map Id="51" Limit="16" Tag="0" Name="Heli Spot" />
+		</Count>
+	</Match>
+	<Match Rule="4" Mode="Eliminate">
+		<Count>
+			<Map Id="1" Limit="16" Tag="0" Name="Port Acaba" />
+			<Map Id="2" Limit="16" Tag="0" Name="Red Rock" />
+			<Map Id="4" Limit="16" Tag="0" Name="M, Station" />
+			<Map Id="9" Limit="8" Tag="0" Name="Crack Down" />
+			<Map Id="10" Limit="8" Tag="0" Name="Saint Mansion" />
+			<Map Id="18" Limit="16" Tag="0" Name="Training Camp" />
+			<Map Id="20" Limit="16" Tag="0" Name="Dissert Camp" />
+			<Map Id="28" Limit="16" Tag="0" Name="Machu Pichu" />
+			<Map Id="34" Limit="16" Tag="0" Name="Taipei City Mall" />
+			<Map Id="41" Limit="8" Tag="0" Name="West Station" />
+			<Map Id="42" Limit="16" Tag="0" Name="House Museum" />
+			<Map Id="65" Limit="16" Tag="0" Name="Water Complex" />
+		</Count>
+	</Match>
+	<Match Rule="5" Mode="Defense">
+		<Count>
+			<Map Id="52" Limit="16" Tag="0" Name="Black Panther" />
+		</Count>
+	</Match>
+	<Match Rule="7" Mode="Dino Escape">
+		<Count>
+			<Map Id="53" Limit="16" Tag="0" Name="Port Akaba" />
+			<Map Id="54" Limit="16" Tag="0" Name="Red Rock" />
+			<Map Id="55" Limit="16" Tag="0" Name="M, Station" />
+		</Count>
+	</Match>
+	<Match Rule="8" Mode="Head Hunter">
+		<Count>
+			<Map Id="1" Limit="16" Tag="0" Name="Port Akaba" />
+			<Map Id="2" Limit="16" Tag="0" Name="Red Rock" />
+			<Map Id="4" Limit="16" Tag="0" Name="M, Station" />
+			<Map Id="5" Limit="16" Tag="0" Name="Midnight Zone" />
+			<Map Id="7" Limit="16" Tag="0" Name="Burning Hall" />
+			<Map Id="9" Limit="8" Tag="0" Name="Crack Down" />
+			<Map Id="10" Limit="8" Tag="0" Name="Saint Mansion" />
+			<Map Id="23" Limit="16" Tag="0" Name="Supply Base" />
+			<Map Id="29" Limit="16" Tag="0" Name="Two Towers" />
+		</Count>
+	</Match>
+	<Match Rule="10" Mode="Tutorial">
+		<Count>
+			<Map Id="57" Limit="1" Tag="2" Name="Tutorial" />
+		</Count>
+	</Match>
+	<Match Rule="12" Mode="Cross Counter">
+		<Count>
+			<Map Id="1" Limit="16" Tag="0" Name="Port Akaba" />
+		</Count>
+	</Match>
+	<Match Rule="13" Mode="Convoy">
+		<Count>
+			<Map Id="86" Limit="16" Tag="1" Name="Sand Storm (convoy)" />
+			<Map Id="85" Limit="16" Tag="1" Name="Still Raid" />
+		</Count>
+	</Match>
+	<Match Rule="15" Mode="Chaos">
+		<Count>
+			<Map Id="1" Limit="16" Tag="0" Name="" />
+			<Map Id="2" Limit="16" Tag="0" Name="" />
+			<Map Id="4" Limit="16" Tag="0" Name="" />
+			<Map Id="7" Limit="16" Tag="0" Name="" />
+			<Map Id="9" Limit="8" Tag="0" Name="" />
+			<Map Id="10" Limit="8" Tag="0" Name="" />
+			<Map Id="20" Limit="16" Tag="0" Name="" />
+			<Map Id="23" Limit="16" Tag="0" Name="" />
+			<Map Id="42" Limit="16" Tag="0" Name="" />
+		</Count>
+	</Match>
+	<Match Rule="16" Mode="Challenge (AI,C)">
+		<Count>
+			<Map Id="1" Limit="8" Tag="0" Name="Port Akaba" />
+			<Map Id="7" Limit="8" Tag="0" Name="Burning Hall" />
+			<Map Id="9" Limit="8" Tag="0" Name="Crack Down" />
+			<Map Id="43" Limit="8" Tag="0" Name="Outpost" />
+			<Map Id="10" Limit="8" Tag="0" Name="Saint Mansion" />
+			<Map Id="9" Limit="8" Tag="0" Name="Crack Down" />
+			<Map Id="2" Limit="8" Tag="0" Name="Red Rock" />
+			<Map Id="3" Limit="8" Tag="0" Name="Old Library" />
+			<Map Id="4" Limit="8" Tag="0" Name="M, Station" />
+			<Map Id="5" Limit="8" Tag="0" Name="Midnight Zone" />
+			<Map Id="29" Limit="8" Tag="0" Name="Two Towers" />
+			<Map Id="23" Limit="8" Tag="0" Name="Supply base" />
+			<Map Id="22" Limit="8" Tag="0" Name="Face rock" />
+			<Map Id="21" Limit="8" Tag="0" Name="Kick point" />
+			<Map Id="20" Limit="8" Tag="0" Name="Desert camp" />
+			<Map Id="11" Limit="8" Tag="0" Name="Eastern road" />
+		</Count>
+	</Match>
+	<Match Rule="18" Mode="Zombie Survival (AI,M)">
+		<Count>
+			<Map Id="78" Limit="8" Tag="0" Name="Sewerage" />
+			<Map Id="92" Limit="8" Tag="0" Name="M Bridge" />
+			<Map Id="101" Limit="8" Tag="0" Name="Infection Airport" />
+		</Count>
+	</Match>
+	<Match Rule="19" Mode="DeathMatch (Sniper)">
+		<Count>
+			<Map Id="1" Limit="16" Tag="0" Name="" />
+			<Map Id="2" Limit="16" Tag="0" Name="" />
+			<Map Id="3" Limit="16" Tag="0" Name="Old Library" />
+			<Map Id="4" Limit="16" Tag="0" Name="" />
+			<Map Id="5" Limit="16" Tag="0" Name="" />
+			<Map Id="6" Limit="16" Tag="0" Name="" />
+			<Map Id="7" Limit="16" Tag="0" Name="" />
+			<Map Id="9" Limit="8" Tag="0" Name="" />
+			<Map Id="10" Limit="8" Tag="0" Name="" />
+			<Map Id="11" Limit="16" Tag="0" Name="" />
+			<Map Id="18" Limit="16" Tag="0" Name="" />
+			<Map Id="21" Limit="16" Tag="0" Name="" />
+			<Map Id="23" Limit="16" Tag="0" Name="" />
+			<Map Id="26" Limit="16" Tag="0" Name="" />
+			<Map Id="29" Limit="16" Tag="0" Name="" />
+			<Map Id="32" Limit="16" Tag="0" Name="" />
+			<Map Id="33" Limit="16" Tag="0" Name="" />
+			<Map Id="34" Limit="16" Tag="0" Name="" />
+			<Map Id="35" Limit="16" Tag="0" Name="" />
+			<Map Id="36" Limit="16" Tag="0" Name="" />
+			<Map Id="37" Limit="16" Tag="0" Name="" />
+			<Map Id="41" Limit="8" Tag="0" Name="" />
+			<Map Id="42" Limit="16" Tag="0" Name="" />
+			<Map Id="65" Limit="16" Tag="0" Name="" />
+			<Map Id="69" Limit="16" Tag="0" Name="" />
+		</Count>
+	</Match>
+	<Match Rule="20" Mode="DeathMatch (Shotgun)">
+		<Count>
+			<Map Id="1" Limit="16" Tag="0" Name="" />
+			<Map Id="2" Limit="16" Tag="0" Name="" />
+			<Map Id="3" Limit="16" Tag="0" Name="Old Library" />
+			<Map Id="4" Limit="16" Tag="0" Name="" />
+			<Map Id="5" Limit="16" Tag="0" Name="" />
+			<Map Id="6" Limit="16" Tag="0" Name="" />
+			<Map Id="7" Limit="16" Tag="0" Name="" />
+			<Map Id="9" Limit="8" Tag="0" Name="" />
+			<Map Id="10" Limit="8" Tag="0" Name="" />
+			<Map Id="11" Limit="16" Tag="0" Name="" />
+			<Map Id="18" Limit="16" Tag="0" Name="" />
+			<Map Id="20" Limit="16" Tag="0" Name="" />
+			<Map Id="21" Limit="16" Tag="0" Name="" />
+			<Map Id="22" Limit="16" Tag="0" Name="" />
+			<Map Id="23" Limit="16" Tag="0" Name="" />
+			<Map Id="26" Limit="16" Tag="0" Name="" />
+			<Map Id="27" Limit="16" Tag="0" Name="" />
+			<Map Id="28" Limit="16" Tag="0" Name="" />
+			<Map Id="29" Limit="16" Tag="0" Name="" />
+			<Map Id="32" Limit="16" Tag="0" Name="" />
+			<Map Id="33" Limit="16" Tag="0" Name="" />
+			<Map Id="34" Limit="16" Tag="0" Name="" />
+			<Map Id="35" Limit="16" Tag="0" Name="" />
+			<Map Id="36" Limit="16" Tag="0" Name="" />
+			<Map Id="37" Limit="16" Tag="0" Name="" />
+			<Map Id="41" Limit="8" Tag="0" Name="" />
+			<Map Id="42" Limit="16" Tag="0" Name="" />
+			<Map Id="65" Limit="16" Tag="0" Name="" />
+			<Map Id="69" Limit="16" Tag="0" Name="" />
+		</Count>
+	</Match>
+	<Match Rule="21" Mode="DeathMatch (Knuckle)">
+		<Count>
+			<Map Id="2" Limit="16" Tag="0" Name="" />
+			<Map Id="3" Limit="16" Tag="0" Name="Old Library" />
+			<Map Id="4" Limit="16" Tag="0" Name="" />
+			<Map Id="5" Limit="16" Tag="0" Name="" />
+			<Map Id="6" Limit="16" Tag="0" Name="" />
+			<Map Id="7" Limit="16" Tag="0" Name="" />
+			<Map Id="9" Limit="8" Tag="0" Name="" />
+			<Map Id="10" Limit="8" Tag="0" Name="" />
+			<Map Id="11" Limit="16" Tag="0" Name="" />
+			<Map Id="12" Limit="16" Tag="0" Name="" />
+			<Map Id="18" Limit="16" Tag="0" Name="" />
+			<Map Id="20" Limit="16" Tag="0" Name="" />
+			<Map Id="21" Limit="16" Tag="0" Name="" />
+			<Map Id="22" Limit="16" Tag="0" Name="" />
+			<Map Id="23" Limit="16" Tag="0" Name="" />
+			<Map Id="26" Limit="16" Tag="0" Name="" />
+			<Map Id="28" Limit="16" Tag="0" Name="" />
+			<Map Id="29" Limit="16" Tag="0" Name="" />
+			<Map Id="35" Limit="16" Tag="0" Name="" />
+			<Map Id="32" Limit="16" Tag="0" Name="" />
+			<Map Id="33" Limit="8" Tag="0" Name="" />
+			<Map Id="34" Limit="16" Tag="0" Name="" />
+			<Map Id="35" Limit="16" Tag="0" Name="" />
+			<Map Id="36" Limit="16" Tag="0" Name="" />
+			<Map Id="37" Limit="16" Tag="0" Name="" />
+			<Map Id="41" Limit="16" Tag="0" Name="" />
+		</Count>
+	</Match>
+	<Match Rule="22" Mode="Bomb Mission (Sniper)">
+		<Count>
+			<Map Id="12" Limit="16" Tag="0" Name="" />
+			<Map Id="13" Limit="16" Tag="0" Name="" />
+			<Map Id="14" Limit="16" Tag="0" Name="" />
+			<Map Id="15" Limit="16" Tag="0" Name="" />
+			<Map Id="24" Limit="16" Tag="0" Name="" />
+			<Map Id="45" Limit="16" Tag="0" Name="" />
+		</Count>
+	</Match>
+	<Match Rule="23" Mode="Bomb Mission (Shotgun)">
+		<Count>
+			<Map Id="12" Limit="16" Tag="0" Name="" />
+			<Map Id="13" Limit="16" Tag="0" Name="" />
+			<Map Id="14" Limit="16" Tag="0" Name="" />
+			<Map Id="15" Limit="16" Tag="0" Name="" />
+			<Map Id="19" Limit="16" Tag="0" Name="" />
+			<Map Id="24" Limit="16" Tag="0" Name="" />
+			<Map Id="25" Limit="16" Tag="0" Name="" />
+			<Map Id="44" Limit="16" Tag="0" Name="" />
+			<Map Id="45" Limit="16" Tag="0" Name="" />
+			<Map Id="46" Limit="16" Tag="0" Name="" />
+			<Map Id="47" Limit="16" Tag="0" Name="" />
+			<Map Id="48" Limit="16" Tag="0" Name="" />
+		</Count>
+	</Match>
+	<Match Rule="24" Mode="Bomb Mission (Knuckle)">
+		<Count>
+			<Map Id="47" Limit="16" Tag="0" Name="" />
+		</Count>
+	</Match>
+	<Match Rule="26" Mode="Destroy (Shotgun)">
+		<Count>
+			<Map Id="17" Limit="16" Tag="0" Name="" />
+			<Map Id="51" Limit="16" Tag="0" Name="" />
+		</Count>
+	</Match>
+	<Match Rule="29" Mode="Defense (Shotgun)">
+		<Count>
+			<Map Id="52" Limit="16" Tag="0" Name="" />
+		</Count>
+	</Match>
+	<Match Rule="45" Mode="Space Mode">
+		<Count>
+			<Map Id="94" Limit="16" Tag="1" Name="Dessert Canyon" />
+			<Map Id="96" Limit="16" Tag="1" Name="Two Towers (Space)" />
+			<Map Id="104" Limit="16" Tag="1" Name="Space Port" />
+		</Count>
+	</Match>
+		<Match Rule="55" Mode="Ace">
+		<Count>
+			<Map Id="108" Limit="16" Tag="1" Name="DrainTunel" />
+		</Count>
+	</Match>
+	<Match Rule="59" Mode="Battle Royale">
+		<Count>
+			<Map Id="114" Limit="16" Tag="1" Name="Wildernes" />
+			<Map Id="120" Limit="16" Tag="1" Name="Historic Site" />
+		</Count>
+	</Match>
+	<Match Rule="667" Mode="AI BOMB">
+		<Count>
+			<Map Id="13" Limit="16" Tag="1" Name="Luxville" />
+			<Map Id="43" Limit="16" Tag="1" Name="Outpost" />
+			<Map Id="12" Limit="16" Tag="1" Name="Downtown" />
+		</Count>
+	</Match>
+	<Match Rule="668" Mode="AI DINO">
+		<Count>
+		<Map Id="13" Limit="16" Tag="1" Name="Luxville" />
+		<Map Id="53" Limit="16" Tag="1" Name="Breeding Nest" />
+		</Count>
+	</Match>
+	<Match Rule="669" Mode="AI DEFENCE">
+		<Count>
+			<Map Id="52" Limit="16" Tag="1" Name="Blackpanther" />
+		</Count>
+	</Match>
+	<Match Rule="670" Mode="AI SPACE">
+		<Count>
+			<Map Id="104" Limit="16" Tag="1" Name="Spaceport" />
+		</Count>
+	</Match>
+	<Match Rule="55" Mode="ACE">
+		<Count>
+			<Map Id="108" Limit="16" Tag="1" Name="DrainTunel" />
+		</Count>
+	</Match>
+</List>

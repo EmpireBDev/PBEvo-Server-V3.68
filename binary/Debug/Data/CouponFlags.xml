@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Coupon ItemId="1600065" EffectFlag="Defense90"/>
+	<Coupon ItemId="1600079" EffectFlag="Defense20"/>
+	<Coupon ItemId="1600078" EffectFlag="HollowPointPlus"/>
+	<Coupon ItemId="1600044" EffectFlag="Defense10"/>
+	<Coupon ItemId="1600040" EffectFlag="HP5"/>
+	<Coupon ItemId="1600036" EffectFlag="JackHollowPoint"/>
+	<Coupon ItemId="1600035" EffectFlag="ExtraGrenade"/>
+	<Coupon ItemId="1600034" EffectFlag="C4SpeedKit"/>
+	<Coupon ItemId="1600032" EffectFlag="HollowPoint"/>
+	<Coupon ItemId="1600031" EffectFlag="FullMetalJack"/>
+	<Coupon ItemId="1600030" EffectFlag="Defense5"/>
+	<Coupon ItemId="1600029" EffectFlag="Invincible"/>
+	<Coupon ItemId="1600028" EffectFlag="HP10"/>
+	<Coupon ItemId="1600027" EffectFlag="QuickChangeReload"/>
+	<Coupon ItemId="1600026" EffectFlag="QuickChangeWeapon"/>
+	<Coupon ItemId="1600033" EffectFlag="FlashProtect"/>
+	<Coupon ItemId="1600017" EffectFlag="GetDroppedWeapon"/>
+	<Coupon ItemId="1600008" EffectFlag="Ammo40"/>
+	<Coupon ItemId="1600077" EffectFlag="Respawn20"/>
+	<Coupon ItemId="1600007" EffectFlag="Respawn30"/>
+	<Coupon ItemId="1600064" EffectFlag="Respawn50"/>
+	<Coupon ItemId="1600080" EffectFlag="Respawn100"/>
+	<Coupon ItemId="1600185" EffectFlag="Ammo10"/>
+	<Coupon ItemId="1600191" EffectFlag="ExtraThrowGrenade"/>
+</List>

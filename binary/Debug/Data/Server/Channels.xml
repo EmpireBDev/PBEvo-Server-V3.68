@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+    <Channel ServerId="1">
+		<Count>
+			<Setting Id="0" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="1" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="2" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="3" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="4" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="5" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="6" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="7" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="8" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="9" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="10" 	Type="Unk_14" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+		</Count>
+	</Channel>
+	<Channel ServerId="2">
+		<Count>
+			<Setting Id="0" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="1" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="2" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="3" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="4" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="5" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="6" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="7" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="8" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="9" 	Type="Public"	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="10" 	Type="Unk_14" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+		</Count>
+	</Channel>
+    <Channel ServerId="3">
+		<Count>
+			<Setting Id="0" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="1" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="2" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="3" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="4" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="5" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="6" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="7" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="8" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="9" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="10" 	Type="Unk_14" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+		</Count>
+	</Channel>
+	<Channel ServerId="4">
+		<Count>
+			<Setting Id="0" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="1" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="2" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="3" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="4" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="5" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="6" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="7" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="8" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="9" 	Type="Public" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="10" 	Type="Unk_14" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+		</Count>
+	</Channel>
+	<Channel ServerId="5">
+		<Count>
+			<Setting Id="0" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="1" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="2" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="3" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="4" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="5" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="6" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="7" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="8" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="9" 	Type="Special" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="10" 	Type="Unk_14" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+		</Count>
+	</Channel>
+	<Channel ServerId="6">
+		<Count>
+			<Setting Id="0" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="1" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="2" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="3" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="4" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="5" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="6" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="7" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="8" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="9" 	Type="Expert" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="10" 	Type="Unk_14" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+		</Count>
+	</Channel>
+	<Channel ServerId="7">
+		<Count>
+			<Setting Id="0" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="1" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="2" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="3" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="4" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="5" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="6" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="7" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="8" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="9" 	Type="Clan" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+			<Setting Id="10" 	Type="Unk_14" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10"/>
+		</Count>
+	</Channel>
+	<Channel ServerId="8">
+		<Count>
+			<Setting Id="0" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="12345"/>
+			<Setting Id="1" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="54321"/>
+			<Setting Id="2" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="11111"/>
+			<Setting Id="3" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="22222"/>
+			<Setting Id="4" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="33333"/>
+			<Setting Id="5" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="44444"/>
+			<Setting Id="6" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="55555"/>
+			<Setting Id="7" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="66666"/>
+			<Setting Id="8" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="77777"/>
+			<Setting Id="9" 	Type="CH_PW" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password="88888"/>
+			<Setting Id="10" 	Type="Unk_14" 	MaxRooms="20" ExpBonus="100" GoldBonus="1000" CashBonus="10" Password=""/>
+		</Count>
+	</Channel>
+</List>

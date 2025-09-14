@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Access Level="NORMAL">
+		<Permission>
+			<Right LevelKey="2"/>
+			<Right LevelKey="3"/>
+		</Permission>
+	</Access>
+	<Access Level="CAFE">
+		<Permission>
+			<Right LevelKey="2"/>
+			<Right LevelKey="3"/>
+		</Permission>
+	</Access>
+	<Access Level="STREAMER">
+		<Permission>
+			<Right LevelKey="1"/>
+			<Right LevelKey="2"/>
+			<Right LevelKey="3"/>
+		</Permission>
+	</Access>
+	<Access Level="INFLUENCER">
+		<Permission>
+			<Right LevelKey="2"/>
+			<Right LevelKey="3"/>
+		</Permission>
+	</Access>
+	<Access Level="VIP">
+		<Permission>
+			<Right LevelKey="1"/>
+			<Right LevelKey="2"/>
+			<Right LevelKey="3"/>
+			<Right LevelKey="4"/>
+		</Permission>
+	</Access>
+	<Access Level="MODERATOR">
+		<Permission>
+			<Right LevelKey="1"/>
+			<Right LevelKey="2"/>
+			<Right LevelKey="3"/>
+			<Right LevelKey="4"/>			
+			<Right LevelKey="5"/>
+		</Permission>
+	</Access>
+	<Access Level="GAMEMASTER">
+		<Permission>
+			<Right LevelKey="1"/>
+			<Right LevelKey="2"/>
+			<Right LevelKey="3"/>
+			<Right LevelKey="4"/>
+			<Right LevelKey="5"/>
+			<Right LevelKey="6"/>
+			<Right LevelKey="7"/>
+		</Permission>
+	</Access>
+</List>

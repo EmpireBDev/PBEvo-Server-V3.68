@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Ticket Type="VALUE" Token="CASHANDGOLD" Count="100" PlayerRation="3" GoldReward="25000" CashReward="2500" TagsReward="10"/>
+	<Ticket Type="ITEM" Token="UZIPACKAGE" Count="100" PlayerRation="3">
+		<Rewards>
+			<Goods Id="11800401"/> <!-- Dual Uzi, 1 Day (Temporary), From shop -->
+			<Goods Id="11800501"/> <!-- Dual Uzi Mini, 1 Day (Temporary), From shop -->
+			<Goods Id="11800601"/> <!-- Dual Uzi Micro, 1 Day (Temporary), From shop -->
+			<Goods Id="11800901"/> <!-- Dual Uzi Micro Silencer, 1 Day (Temporary), From shop -->
+			<Goods Id="11801101"/> <!-- Dual Uzi Micro Silencer Silver, 1 Day (Temporary), From shop -->
+			<Goods Id="11801301"/> <!-- Dual Uzi Mini Gold, 1 Day (Temporary), From shop -->
+			<Goods Id="20202301"/> <!-- IMI Uzi-9, 1 Day (Temporary), From shop -->
+		</Rewards>
+	</Ticket>
+	<Ticket Type="ITEM" Token="PBIC2015SERIES" Count="100" PlayerRation="3">
+		<Rewards>
+			<Goods Id="10321901"/> <!-- AUG-A3 PBIC 2015, 1 Day (Temporary), From shop -->
+			<Goods Id="10421601"/> <!-- Kriss S.V PBIC 2015, 1 Day (Temporary), From shop -->
+			<Goods Id="10421801"/> <!-- P90 Ext. PBIC 2015, 1 Day (Temporary), From shop -->
+			<Goods Id="10512001"/> <!-- Cheytac M200 PBIC 2015, 1 Day (Temporary), From shop -->
+			<Goods Id="10605801"/> <!-- M1887 PBIC 2015, 1 Day (Temporary), From shop -->
+			<Goods Id="20207001"/> <!-- R.B 454 SS8M+S PBIC 2015, 1 Day (Temporary), From shop -->
+			<Goods Id="30110401"/> <!-- Keris PBIC 2015, 1 Day (Temporary), From shop -->
+			<Goods Id="80029901"/> <!-- Mask PBIC 2015, 1 Day (Temporary), From shop -->
+		</Rewards>
+	</Ticket>
+</List>

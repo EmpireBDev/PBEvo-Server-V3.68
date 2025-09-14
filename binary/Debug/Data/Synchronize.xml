@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Sync RemotePort="39190" Host="127.0.0.1" Port="1910"/>
+	<Sync RemotePort="39191" Host="127.0.0.1" Port="1911"/>
+	<Sync RemotePort="39192" Host="127.0.0.1" Port="1912"/>
+	<Sync RemotePort="39193" Host="127.0.0.1" Port="1913"/>
+	<Sync RemotePort="39194" Host="127.0.0.1" Port="1914"/>
+	<Sync RemotePort="39195" Host="127.0.0.1" Port="1915"/>
+	<Sync RemotePort="39196" Host="127.0.0.1" Port="1916"/>
+	<Sync RemotePort="39197" Host="127.0.0.1" Port="1917"/>
+	<Sync RemotePort="39198" Host="127.0.0.1" Port="1918"/>
+	<Sync RemotePort="40009" Host="127.0.0.1" Port="2729"/>
+</List>

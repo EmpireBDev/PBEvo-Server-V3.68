@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+	<Item Id="103218" 	Name="SCAR-L FC PBNC 2015 US"/>
+	<Item Id="104214" 	Name="OA-93 PBNC 2015 US"/>
+	<Item Id="106057" 	Name="SPAS-15 MSC PBNC 2015 US"/>
+	<Item Id="105119" 	Name="XM-2010 PBNC 2015 US"/>
+	<Item Id="301098" 	Name="Hair Dryer"/>
+	<Item Id="323010" 	Name="Zombie Tooth Knuckle"/>
+	<Item Id="1600172" 	Name="Reinforced Item"/>
+	<Item Id="1600173" 	Name="Bonus Control Item"/>
+	<Item Id="1600174" 	Name="Bonus Accuracy Item"/>
+	<Item Id="1600175" 	Name="Bonus Penetration Item"/>
+	<Item Id="1600176" 	Name="Bonus Damage Item"/>
+	<Item Id="1600177" 	Name="Bonus Defense Item"/>
+	<Item Id="1600178" 	Name="Bonus Reduction Item"/>
+	<Item Id="1600180" 	Name="Skill Time Boos X2"/>
+	<Item Id="2700013" 	Name="PBTN Beret"/>
+</List>
